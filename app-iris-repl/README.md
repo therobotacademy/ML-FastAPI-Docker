@@ -5,6 +5,7 @@ Run `train_model.py` for generating the model prediction file, only needed if `.
 This script generates the output file `iris_model.joblib` that will be to make predictions:
 
 ```python
+cd src
 python train_model.py
 ```
 

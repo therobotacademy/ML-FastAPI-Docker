@@ -1,4 +1,4 @@
-## 1. Quick test of Test FastAPI
+## 1. Quick test of FastAPI
 
 Folder structure:
 ```
