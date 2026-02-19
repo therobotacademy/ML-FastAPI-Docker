@@ -1,4 +1,4 @@
-## Train the mode
+## Train the model
 This generates the output file `iris_model.joblib` that will be used by the API to serve predictions:
 ```python
 python train_model.py
@@ -14,7 +14,7 @@ python train_model.py
    ```bash
    docker run -d -p 8001:80 --name fastapi-iris-app fastapi-iris
    ```
-3. Test at [http://127.0.0.1:8001](http://127.0.0.1:8001).
+3. Test at [http://127.0.0.1:8001](http://127.0.0.1:8001)
 
 Use the above commands on your system where Docker is installed and configured.
 
